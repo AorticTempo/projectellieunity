@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 038c5cd3c15d7f0428b42ccb91fc2643
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 37
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eed0abce0b1ad4180e9af065792e71
+      internalID: -1921704604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 148
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a89d131b53734199effe4d1616f51
+      internalID: 1607232256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 148
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842f38a56901374fb872dff40dca4bb
+      internalID: 270295589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 148
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c8375a7e372994abacf840500d9ddc
+      internalID: -1256274912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a4882e7da24c43acf83a44d1c74ef
+      internalID: -1945190704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 148
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ffb58151fce9f4e99d689038684f2b
+      internalID: 440561028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c53f1640c972b647839d450c497971d
+      internalID: -278008809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 111
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf24937ab62cee48aaedb9632d1233f
+      internalID: 878909696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 111
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe33b1e5accc64bbf41cb4003b42bc
+      internalID: -314808922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5898161359fe649b13e8a14fb69438
+      internalID: 1874643792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac95f6db2e16641ab9c4db69d58f2d
+      internalID: 967171737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 111
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10c39a4b31b8784496a5baacb03a471
+      internalID: -1205925296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5c8abc06c348840a452d6757593717
+      internalID: -1751125447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 74
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac04de111289e4468ee0bb29767a099
+      internalID: 182125933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f760bf05477d92c4680f0cedcd6413cd
+      internalID: 462935653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 74
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5945fcd58696ed7478644593b861fd48
+      internalID: -1798243023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 74
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1cf3a07cb715f4b8012959f62544d0
+      internalID: 1484065816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 74
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dc1b9419d24904a900d2c2eb6f79d3
+      internalID: -720502243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ec92bbdc7bc8a458425e9008bd79c7
+      internalID: 302381455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86826798a373be479207d972a4fe24c
+      internalID: 1621948051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 37
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fca0898f31b21499538bb17ed46fe0
+      internalID: 115189493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 37
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5169028741cbc4b9f6f7bb12bc6521
+      internalID: 728617082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 37
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8503e1006cd08eb478a50ae5ee71599b
+      internalID: -822244413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 37
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32ef2a77fe5c6e42b788fc1af6ff46d
+      internalID: 632773678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d9d73c46c30a2419fe0ca3211e5d52
+      internalID: -2067494667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e129b00b61735bf40935b00e0a369649
+      internalID: -910695072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f12b3190335583478db8ff128be43f6
+      internalID: 1347142414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6012abb9ad4041c4ba3dd9f0e39aa480
+      internalID: 2093710813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84839f809707f54b82885b08fa11f92
+      internalID: -639373586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ellie_sprite_sheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b98401ee7f74534baf8629d376214d6
+      internalID: 1181949691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ellie_sprite_sheet 1_0: -1921704604
+      ellie_sprite_sheet 1_1: 1607232256
+      ellie_sprite_sheet 1_10: 967171737
+      ellie_sprite_sheet 1_11: -1205925296
+      ellie_sprite_sheet 1_12: -1751125447
+      ellie_sprite_sheet 1_13: 182125933
+      ellie_sprite_sheet 1_14: 462935653
+      ellie_sprite_sheet 1_15: -1798243023
+      ellie_sprite_sheet 1_16: 1484065816
+      ellie_sprite_sheet 1_17: -720502243
+      ellie_sprite_sheet 1_18: 302381455
+      ellie_sprite_sheet 1_19: 1621948051
+      ellie_sprite_sheet 1_2: 270295589
+      ellie_sprite_sheet 1_20: 115189493
+      ellie_sprite_sheet 1_21: 728617082
+      ellie_sprite_sheet 1_22: -822244413
+      ellie_sprite_sheet 1_23: 632773678
+      ellie_sprite_sheet 1_24: -2067494667
+      ellie_sprite_sheet 1_25: -910695072
+      ellie_sprite_sheet 1_26: 1347142414
+      ellie_sprite_sheet 1_27: 2093710813
+      ellie_sprite_sheet 1_28: -639373586
+      ellie_sprite_sheet 1_29: 1181949691
+      ellie_sprite_sheet 1_3: -1256274912
+      ellie_sprite_sheet 1_4: -1945190704
+      ellie_sprite_sheet 1_5: 440561028
+      ellie_sprite_sheet 1_6: -278008809
+      ellie_sprite_sheet 1_7: 878909696
+      ellie_sprite_sheet 1_8: -314808922
+      ellie_sprite_sheet 1_9: 1874643792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
